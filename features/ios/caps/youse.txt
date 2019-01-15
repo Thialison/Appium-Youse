@@ -1,0 +1,6 @@
+[caps]
+deviceName = "iPhone X"
+platformName = "iOS"
+platformVersion = "11.3"
+app = "~/Desktop/Appium-Youse/features/ios/app/YouseQA.app"
+automationName = "XCUITest"
